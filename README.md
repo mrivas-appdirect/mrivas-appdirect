@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS and Golang
 - 💞️ I’m looking to collaborate on ADRC repo
 - 📫 How to reach me mail at matias.rivas@appdirect.com
-- 🖥️ Checkout my interactive website: mrivas.dev
+- 🖥️ Checkout my interactive website: https://mrivas.dev/
 
 <!---
 mrivas-appdirect/mrivas-appdirect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
