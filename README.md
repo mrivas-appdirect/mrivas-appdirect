@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrivas-appdirect
 - 👀 I’m interested in ReactJS and Angular
-- 🌱 I’m currently learning ReactJS and Golang
-- 💞️ I’m looking to collaborate on ADRC repo
+- 🌱 I’m the Tech lead of Reseller :: Agent Operations
+
 - 📫 How to reach me mail at matias.rivas@appdirect.com
 - 🖥️ Checkout my interactive website: https://mrivas.dev/
 
