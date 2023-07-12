@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrivas-appdirect
 - 👀 I’m interested in ReactJS and Angular
-- 🌱 I’m the Tech lead of Reseller Group
+- 🌱 I’m a Tech lead on Reseller Group
 - 📫 How to reach me mail at matias.rivas@appdirect.com
 - 🖥️ Checkout my interactive website: https://mrivas.dev/
 <!---
