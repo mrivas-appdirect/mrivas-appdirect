@@ -4,7 +4,6 @@
 - 📫 How to reach me mail at matias.rivas@appdirect.com
 - 🖥️ Checkout my interactive website: https://mrivas.dev/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrivas-appdirect&show_icons=true&theme=radical&include_all_commits=true)
 
 
 <!---
